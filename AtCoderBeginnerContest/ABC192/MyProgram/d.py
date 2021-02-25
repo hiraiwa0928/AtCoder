@@ -1,3 +1,4 @@
+# TLE
 x = list(map(int, input()))
 m = int(input())
 
